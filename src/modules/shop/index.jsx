@@ -24,7 +24,7 @@ const Shop = () => {
   const [pizzas, setPizzas] = useState({ loading: true, data: [] });
   const [page, setPage] = useState(1);
 
-  const itemsPerPage = 5;
+  const itemsPerPage = 15;
 
   useEffect(() => {
     const get = async () => {

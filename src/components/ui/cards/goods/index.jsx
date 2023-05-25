@@ -59,7 +59,7 @@ const Card = ({ item }) => {
           $
         </span>
         <RedButton outline className='red-btn' onClick={handlerOrder}>
-          Order now
+          Add
         </RedButton>
       </Group>
     </Wrapper>

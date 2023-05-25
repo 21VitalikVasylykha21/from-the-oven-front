@@ -18,7 +18,7 @@ const Advertisements = () => {
               From the Oven <br />
               delicious pizza on weekends
             </h1>
-            <RedButton>Order now</RedButton>
+            <RedButton>Add</RedButton>
           </Banner>
           <LittleMobileOff>
             <PizzaCarousel />
